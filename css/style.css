@@ -1,0 +1,41 @@
+/* Color Palette from Portfolio Website.docx */
+/* Light cyan: */
+/* Light blue: */
+/* Cadet gray: */
+/* Payne's gray: */
+/* Gunmetal: */
+
+/* You can add more specific styling here */
+body {
+ font-family: sans-serif;
+ /* A simple font */
+ color: #253237;
+ /* Gunmetal (or adjust as needed) */
+}
+
+.navbar-brand img {
+ margin-right: 10px;
+}
+
+.btn-primary {
+ background-color: #0d6efd;
+ /* Default Bootstrap primary color */
+ border-color: #0d6efd;
+}
+
+.btn-primary:hover {
+ background-color: #0b5ed7;
+ border-color: #0b5ed7;
+}
+
+footer {
+ background-color: #253237;
+ color: #ffffff;
+}
+
+/* Add more styles as needed */
+
+#map1 {
+ height: 300px;
+ /* Set a height for the map */
+}
